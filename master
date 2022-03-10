@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<title>Trading - Lydia, la super-app pour votre argent</title>
+    
+    <link rel="icon" href="assets/img/icon.png" sizes="32x32" />
+
+    <link rel="stylesheet" href="assets/reset.css" media="all" />
+    <link rel="stylesheet" href="assets/style.css" media="all" />
+</head>
+
+<body class="page-template-template-trading">
+
+	<header class="site-header sticky">
+        <div class="site-header__wrapper section-container">
+            <a href="https://www.lydia-app.com/" rel="home">
+                <img class="site-logo" src="assets/img/logo.svg" alt="Lydia" />
+            </a>
+            <div class="menu">
+                <button class="download-lydia">Télécharger Lydia</button>
+            </div>
+        </div>
+	</header>
+  </html>
